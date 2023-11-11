@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mirajul Isaml (Tanvir)</h1>
 <h3 align="center">A software developer from Bangladesh</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:mirajulislam0046@gamil.com</h3>
 <p align="left">
 </p>
 
